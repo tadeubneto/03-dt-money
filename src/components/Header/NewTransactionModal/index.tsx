@@ -1,5 +1,4 @@
 import * as Dialog  from "@radix-ui/react-dialog";
-import * as RadioGroup from "@radix-ui/react-radio-group";
 import { Close, Content, Overlay, TransactionType, TransactionTypeButton } from "./style";
 import { ArrowCircleDown, ArrowCircleUp, X } from "@phosphor-icons/react";
 
