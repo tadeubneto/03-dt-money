@@ -11,9 +11,7 @@ export function NewTransactionModal(){
               <Close>
                 <X size={24} />
               </Close>
-            
-            
-            
+         
               <form action="">
                 <input type="text" placeholder="Descrição" required />
                 <input type="number" placeholder="Preço" required />
@@ -38,7 +36,5 @@ export function NewTransactionModal(){
               </form>
             </Content>
           </Dialog.Portal>
-
-
     )
 }
