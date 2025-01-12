@@ -3,7 +3,7 @@ import { useContext } from "react";
 import { Header } from "../../components/Header";
 import { Summary } from "../../components/Summary";
 import { SearchForm } from "./components/SearchForm";
-import { TransactionsContext } from "../../contexts/TransationsContext";
+import { TransactionsContext } from "../../contexts/TransactionsContext";
 import { DateFormatter, PriceFormatter } from "../../utils/formatter";
 
 import {
